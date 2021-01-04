@@ -16,7 +16,9 @@ Research
 ------
 
 * **Learning Interpretable Time-series Summaries for Prediction from Intensive Care Data**
+
 Nari Johnson.
+
 In-progress senior thesis.
 
 Teaching
