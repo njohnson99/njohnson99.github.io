@@ -15,11 +15,10 @@ My research interests broadly include machine learning and theoretical computer 
 Teaching
 ------
 * Head Teaching Fellow for CS 181: Machine Learning, Spring 2021
-* Patel Fellow for CS 121: Theoretical Computer Science, Fall 2020
+* Alex Patel Fellow for CS 121: Theoretical Computer Science, Fall 2020
 * CS 181: Machine Learning, Spring 2020
 * CS 121: Theoretical Computer Science, Fall 2019
-* Math 23C: Mathematics for Computation and Data Science, Spring 2019
-
+* Math 23c: Mathematics for Computation and Data Science, Spring 2019
 
 Outreach
 ------
