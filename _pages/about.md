@@ -29,12 +29,10 @@ Teaching
 
 Outreach
 ------
-* Advocacy Director of [Harvard Women in Computer Science](https://www.harvardwics.com/), 2020- 2021
-* Co-President of [Harvard Women in Computer Science](https://www.harvardwics.com/), 2019 - 2020
-* Counselor at [Indigo Peer Counseling](https://www.thecrimson.com/article/2016/2/17/Indigo-peer-counseling/)
-* Co-Director of the Harvard Computer Science Peer Concentration Advisors, 2019
-* Member of Harvard School of Engineering and Applied Science's Diversity, Inclusion, and Belonging Committee
-* Member of Harvard Computer Science Diversity Committee
+
+I've previously served as elected Co-President of [Harvard Women in Computer Science](https://www.harvardwics.com/).  I also led our Advocacy Council, where I facilitated Harvard CS's first [inclusive teaching training](https://www.thecrimson.com/article/2020/10/7/cs-tf-training/).
+
+I care deeply about mental health advocacy, and currently provide peer support as a trained counselor for [Indigo Peer Counseling](https://www.thecrimson.com/article/2016/2/17/Indigo-peer-counseling/).
 
 Contact
 ------
