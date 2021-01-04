@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello!  My name is Nari (rhymes with "Atari") and I'm a Harvard College student graduating in Spring 2021.  I am currently pursuing a joint Bachelor's and Master's in Computer Science.  My research interests broadly include machine learning and theoretical computer science.
+Hello!  My name is Nari (rhymes with "Atari") and I'm a Harvard College student graduating in Spring 2021.  I am currently pursuing a joint Bachelor's and Master's in Computer Science.  
+
+My research interests broadly include machine learning and theoretical computer science.  I currently do machine learning research advised by Prof. Finale Doshi-Velez in Harvard's [Data to Actionable Knowledge lab](https://dtak.github.io/).
 
 Teaching
 ------
