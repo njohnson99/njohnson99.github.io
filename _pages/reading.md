@@ -5,7 +5,7 @@ permalink: /reading/
 author_profile: true
 ---
 
-I made this page to tuck away some of my favorite papers, articles, books, talks, and podcasts for safekeeping.
+I made this page to tuck away some of my favorite articles, books, talks, and podcasts for safekeeping.
 
 on technology
 ------
