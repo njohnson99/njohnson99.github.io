@@ -18,6 +18,7 @@ on technology
 * [Safe or Surveilled?](https://logicmag.io/security/safe-or-just-surveilled-tawana-petty-on-facial-recognition/), an interview by Logic Magazine
 * [Free as in smash the surveillance state](https://logicmag.io/security/free-as-in-smash-the-surveillance-state-alison-macrina-on-library-freedom/), an interview by Logic Magazine
 * [Something is wrong on the internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2), by James Bridle
+* [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf), by Phillip Rogaway
 
 not on technology
 ------
