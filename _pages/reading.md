@@ -10,9 +10,10 @@ I made this page to tuck away some of my favorite articles, books, talks, and po
 on technology
 ------
 
-* [Race After Technology](https://www.ruhabenjamin.com/race-after-technology) by Ruha Benjamin
 * [How Machine Learning Shifts Power](https://slideslive.com/38923453/the-values-of-machine-learning), a talk by Ria Kalluri
-* []
+* [The Paradox of Socially Responsible Computing](http://www.theindy.org/2235) by Jessica Dai
+* [The Age of Surveillance Capitalism](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697) by Shoshana Zuboff
+* [Race After Technology](https://www.ruhabenjamin.com/race-after-technology) by Ruha Benjamin
 * [Safe or Surveilled?](https://logicmag.io/security/safe-or-just-surveilled-tawana-petty-on-facial-recognition/), an interview by Logic Magazine
 * [Free as in smash the surveillance state](https://logicmag.io/security/free-as-in-smash-the-surveillance-state-alison-macrina-on-library-freedom/), an interview by Logic Magazine
 * [Something is wrong on the internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2) by James Bridle
