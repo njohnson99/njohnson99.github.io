@@ -15,10 +15,8 @@ My research interests broadly include machine learning and theoretical computer 
 Research
 ------
 
-* **Learning Interpretable Time-series Summaries for Prediction from Intensive Care Data**
-
-Nari Johnson.
-
+* **Learning Interpretable Time-series Summaries for Prediction from Intensive Care Data**.  
+Nari Johnson.  
 In-progress senior thesis.
 
 Teaching
