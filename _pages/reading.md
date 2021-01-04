@@ -21,5 +21,7 @@ on technology
 
 not on technology
 ------
-* 
-* 
+* [In the No](https://www.wnycstudios.org/podcasts/radiolab/articles/no-part-1), a podcast series by Kaitlin Prest and Radiotopia
+* [The Lives Erased by Gentrification](https://medium.com/s/story/people-never-lived-here-5dfa42af1240), by Rachel Toliver
+* [My Body Doesn't Belong to You](https://www.nytimes.com/2017/06/16/style/modern-love-my-body-doesnt-belong-to-you.html), by Heather Burtman
+* [Her Loss](https://www.nytimes.com/interactive/projects/cp/opinion/election-night-2016/her-loss), by Lindy West
