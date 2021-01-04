@@ -12,6 +12,13 @@ Hello!  My name is Nari (rhymes with "Atari") and I'm a Harvard College student 
 
 My research interests broadly include machine learning and theoretical computer science.  I'm especially interested in machine interpretability and machine learning for healthcare.  I currently do machine learning research advised by Prof. Finale Doshi-Velez in Harvard's [Data to Actionable Knowledge lab](https://dtak.github.io/).
 
+Research
+------
+
+* **Learning Interpretable Time-series Summaries for Prediction from Intensive Care Data**
+Nari Johnson.
+In-progress senior thesis.
+
 Teaching
 ------
 * Head Teaching Fellow for CS 181: Machine Learning, Spring 2021
