@@ -1,3 +1,4 @@
 # main links links
 main:
-
+  - title: "reading list"
+    url: /reading/
