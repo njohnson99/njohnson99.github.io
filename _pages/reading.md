@@ -15,6 +15,7 @@ on technology
 * [The Age of Surveillance Capitalism](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697), by Shoshana Zuboff
 * [Race After Technology](https://www.ruhabenjamin.com/race-after-technology), by Ruha Benjamin
 * The [Indigenous AI Position Paper](http://www.indigenous-ai.net/position-paper)
+* [A People's Guide to AI](https://alliedmedia.org/speaker-projects/a-peoples-press), by Mimi Onuoha and Mother Cyborg
 * [Safe or Surveilled?](https://logicmag.io/security/safe-or-just-surveilled-tawana-petty-on-facial-recognition/), an interview by Logic Magazine
 * [Free as in smash the surveillance state](https://logicmag.io/security/free-as-in-smash-the-surveillance-state-alison-macrina-on-library-freedom/), an interview by Logic Magazine
 * [Something is wrong on the internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2), by James Bridle
