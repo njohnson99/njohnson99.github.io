@@ -14,6 +14,7 @@ on technology
 * [The Paradox of Socially Responsible Computing](http://www.theindy.org/2235), by Jessica Dai
 * [The Age of Surveillance Capitalism](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697), by Shoshana Zuboff
 * [Race After Technology](https://www.ruhabenjamin.com/race-after-technology), by Ruha Benjamin
+* The [Indigenous AI Position Paper](http://www.indigenous-ai.net/position-paper)
 * [Safe or Surveilled?](https://logicmag.io/security/safe-or-just-surveilled-tawana-petty-on-facial-recognition/), an interview by Logic Magazine
 * [Free as in smash the surveillance state](https://logicmag.io/security/free-as-in-smash-the-surveillance-state-alison-macrina-on-library-freedom/), an interview by Logic Magazine
 * [Something is wrong on the internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2), by James Bridle
