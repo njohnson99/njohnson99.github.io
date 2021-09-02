@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Nari!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-This site is a WIP, check back soon.
+Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student in Carnegie Mellon University's Machine Learning Department.  I graduated from Harvard College in May 2021 with a BA and MSc in Computer Science.  I am fortunate to have worked with Prof. Finale Doshi-Velez in Harvard's [Data to Actionable Knowledge lab](https://dtak.github.io/).
+
+Research
+------
+* **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**
+AMIA 2021 Annual Symposium.
+Nari Johnson, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.
+
+
+Teaching
+------
+* Head Teaching Fellow for [CS 181: Machine Learning](https://harvard-ml-courses.github.io/cs181-web/), Spring 2021
+* Alex Patel Fellow for [CS 121: Theoretical Computer Science](http://people.seas.harvard.edu/~madhusudan/courses/Fall2020/), Fall 2020
+* Course Assistant for [MITx's Machine Learning for Healthcare](https://www.edx.org/course/machine-learning-for-healthcare), Summer 2020
+* Teaching Fellow for [CS 181: Machine Learning](https://harvard-ml-courses.github.io/cs181-web-2020/), Spring 2020
+* Teaching Fellow for [CS 121: Theoretical Computer Science](https://cs121.boazbarak.org/), Fall 2019
+* Course Assistant for Math 23c: Mathematics for Computation and Data Science, Spring 2019
+
+Outreach
+------
+
+I've previously served as elected Co-President of [Harvard Women in Computer Science](https://www.harvardwics.com/).  I also led our Advocacy Council, where I facilitated Harvard CS's first [inclusive teaching training](https://www.thecrimson.com/article/2020/10/7/cs-tf-training/).
+
+I care deeply about mental health advocacy, and previously volunteered as a trained counselor for [Indigo Peer Counseling](https://www.thecrimson.com/article/2016/2/17/Indigo-peer-counseling/).
+
+Contact
+------
+(my first name).(my last name) (at) gmail.com
