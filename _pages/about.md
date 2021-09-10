@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student in Carnegie Mellon University's Machine Learning Department.  I graduated from Harvard College in May 2021 with a BA and MSc in Computer Science.  I am fortunate to have worked with Prof. Finale Doshi-Velez in Harvard's [Data to Actionable Knowledge lab](https://dtak.github.io/).
+Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student in Carnegie Mellon University's Machine Learning Department.  I graduated from Harvard in May 2021 with a BA and MSc in Computer Science.<br/>  
+
+I am fortunate to have worked with Prof. Finale Doshi-Velez in Harvard's [Data to Actionable Knowledge lab](https://dtak.github.io/).
 
 Research
 ------
-* **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**
-AMIA 2021 Annual Symposium.
-Nari Johnson, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.
+* **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
+AMIA 2021 Annual Symposium.<br/>
+Nari Johnson, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
 
 
 Teaching
