@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student in Carnegie Mellon University's Machine Learning Department.  I graduated from Harvard in May 2021 with a BA and MSc in Computer Science.<br/>  
-
-I am fortunate to have worked with Prof. Finale Doshi-Velez in Harvard's [Data to Actionable Knowledge lab](https://dtak.github.io/).
+Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student in Carnegie Mellon University's Machine Learning Department advised by [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/).  I graduated from Harvard in May 2021 with a BA and MSc in Computer Science, where I previously worked with Finale Doshi-Velez in the [Data to Actionable Knowledge lab](https://dtak.github.io/).<br/> 
 
 Research
 ------
@@ -28,7 +26,7 @@ Teaching
 * Teaching Fellow for [CS 121: Theoretical Computer Science](https://cs121.boazbarak.org/), Fall 2019
 * Course Assistant for Math 23c: Mathematics for Computation and Data Science, Spring 2019
 
-Outreach
+Service
 ------
 
 I've previously served as elected Co-President of [Harvard Women in Computer Science](https://www.harvardwics.com/).  I also led our Advocacy Council, where I facilitated Harvard CS's first [inclusive teaching training](https://www.thecrimson.com/article/2020/10/7/cs-tf-training/).
