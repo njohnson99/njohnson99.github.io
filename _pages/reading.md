@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /reading/
 title: "Reading List"
 excerpt: "Reading List"
 author_profile: true
 redirect_from: 
-  - /reading/
   - /reading.html
 ---
 
