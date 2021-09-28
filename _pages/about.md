@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student in Carnegie Mellon University's Machine Learning Department advised by [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/).  I graduated from Harvard in May 2021 with a BA and MSc in Computer Science, where I previously worked with Finale Doshi-Velez in the [Data to Actionable Knowledge lab](https://dtak.github.io/).<br/> 
+Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student in Carnegie Mellon University's Machine Learning Department advised by [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/).  I graduated from Harvard in May 2021 with a BA and MSc in Computer Science.<br/> 
 
 Research
 ------
 * **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
 AMIA 2021 Annual Symposium.<br/>
 Nari Johnson, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
+[(arXiV)](https://arxiv.org/abs/2109.11043)<br/>
 
 
 Teaching
