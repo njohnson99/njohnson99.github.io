@@ -9,6 +9,8 @@ redirect_from:
 
 2021
 ------
+* It Ends With Us, Colleen Hoover
+* Devotions, Mary Oliver
 * Beautiful World, Where Are You, Sally Rooney
 * Misfits, Michaela Coel
 * Crying in H Mart, Michelle Zauner
