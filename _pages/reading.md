@@ -11,6 +11,7 @@ redirect_from:
 ------
 * The Idiot, Elif Batuman
 * Wish You Were Here, Jodi Picoult
+* The Seven Husbands of Evelyn Hugo, Taylor Jenkins Reid
 * It Ends With Us, Colleen Hoover
 * Devotions, Mary Oliver
 * Beautiful World, Where Are You, Sally Rooney
