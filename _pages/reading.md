@@ -9,6 +9,8 @@ redirect_from:
 
 2021
 ------
+* The Idiot, Elif Batuman
+* Wish You Were Here, Jodi Picoult
 * It Ends With Us, Colleen Hoover
 * Devotions, Mary Oliver
 * Beautiful World, Where Are You, Sally Rooney
