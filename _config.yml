@@ -86,7 +86,7 @@ author:
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?hl=en&user=otKyVIAAAAAJ
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=otKyVIAAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
