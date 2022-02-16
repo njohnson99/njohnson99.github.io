@@ -7,7 +7,9 @@ redirect_from:
   - /reading.html
 ---
 
-This page may be out-of-date.
+In Summer 2021 I decided to begin keeping a public list of books that I've read for fun.  Recently I like reading (and am always looking for recommendations!) fiction, poetry, and nonfiction (especially science and technology studies).
+
+This list is likely out-of-date.
 
 2022
 ------
