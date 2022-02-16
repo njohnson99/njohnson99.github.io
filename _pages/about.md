@@ -14,9 +14,12 @@ I am broadly interested in interpretability, explainability, and human-AI intera
 
 Research
 ------
+* **Simulated User Studies for Explanation Evaluation.**<br/>
+Under Review.<br/>
+Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin**, Gregory Plumb**, Ameet Talwalkar.<br/>
 * **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
 AMIA 2021 Annual Symposium.<br/>
-Nari Johnson, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
+<b>Nari Johnson</b>, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
 [(arXiV)](https://arxiv.org/abs/2109.11043)<br/>
 
 
