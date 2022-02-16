@@ -7,8 +7,16 @@ redirect_from:
   - /reading.html
 ---
 
+This page may be out-of-date.
+
+2022
+------
+* Peace is Every Step, Thich Nhat Hanh
+* What We Talk About When We Talk About Love, Raymond Carver
+
 2021
 ------
+* The Last Thing He Ever Told Me, Laura Dave
 * The Idiot, Elif Batuman
 * Wish You Were Here, Jodi Picoult
 * The Seven Husbands of Evelyn Hugo, Taylor Jenkins Reid
