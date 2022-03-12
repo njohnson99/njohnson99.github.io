@@ -17,6 +17,9 @@ Research
 * **Simulated User Studies for Explanation Evaluation.**<br/>
 Under Review.<br/>
 Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin, Gregory Plumb, Ameet Talwalkar.<br/>
+* **Rethinking Stability for Attribution-Based Explanations.**<br/>
+Under Review.<br/>
+Chirag Agarwal, <b>Nari Johnson</b>, Martin Pawelczyk,  Satyapriya Krishna, Eshika Saxena, Marinka Zitnik, Hima Lakkaraju.<br/>
 * **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
 AMIA 2021 Annual Symposium.<br/>
 <b>Nari Johnson</b>, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
