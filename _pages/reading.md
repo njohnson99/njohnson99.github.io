@@ -7,12 +7,14 @@ redirect_from:
   - /reading.html
 ---
 
-In Summer 2021 I decided to begin keeping a public list of books that I've read for fun.  I am always looking for recommendations in fiction, poetry, and nonfiction (especially science and technology studies).
+In Summer 2021 I decided to keep a public list of books that I've read for fun.  I am always looking for recommendations in fiction, poetry, and nonfiction (especially science and technology studies).
 
 This list is likely out-of-date.
 
 2022
 ------
+* A Manual for Cleaning Women: Selected Stories, Lucia Berlin
+* Know My Name, Chanel Miller
 * Peace is Every Step, Thich Nhat Hanh
 * What We Talk About When We Talk About Love, Raymond Carver
 
