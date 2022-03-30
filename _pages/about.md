@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student in Carnegie Mellon University's Machine Learning Department advised by [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/).  I graduated from Harvard in May 2021 with a BA and MSc in Computer Science.<br/>
 
-I am broadly interested in interpretability, explainability, and human-AI interaction.  I study methods to help humans understand and audit machine learning models.  I am especially interested in studying the relationship between transparency and auditing. <br/>
+I am broadly interested in interpretability, explainability, and human-AI interaction.  I study methods to help humans understand and audit machine learning models. <br/>
 
 Research
 ------
@@ -18,7 +18,7 @@ Research
 Under Review.<br/>
 Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin, Gregory Plumb, Ameet Talwalkar.<br/>
 * **Rethinking Stability for Attribution-Based Explanations.**<br/>
-Under Review.<br/>
+ICLR PAIR2Struct Workshop, 2022 (Oral)<br/>
 Chirag Agarwal, <b>Nari Johnson</b>, Martin Pawelczyk,  Satyapriya Krishna, Eshika Saxena, Marinka Zitnik, Hima Lakkaraju.<br/>
 * **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
 AMIA 2021 Annual Symposium.<br/>
