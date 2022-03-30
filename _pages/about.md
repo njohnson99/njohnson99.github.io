@@ -21,7 +21,7 @@ Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin, Gregory Plumb, Ameet Talwalka
 ICLR PAIR2Struct Workshop, 2022 (Oral)<br/>
 Chirag Agarwal, <b>Nari Johnson</b>, Martin Pawelczyk,  Satyapriya Krishna, Eshika Saxena, Marinka Zitnik, Hima Lakkaraju.<br/>
 * **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
-AMIA 2021 Annual Symposium.<br/>
+AMIA Annual Symposium, 2021<br/>
 <b>Nari Johnson</b>, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
 [(arXiV)](https://arxiv.org/abs/2109.11043)<br/>
 
