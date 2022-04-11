@@ -13,7 +13,9 @@ This list is likely out-of-date.
 
 2022
 ------
+* The Year of Magical Thinking, Joan Didion
 * A Manual for Cleaning Women: Selected Stories, Lucia Berlin
+* Such a Fun Age, Kiley Reid
 * Know My Name, Chanel Miller
 * Peace is Every Step, Thich Nhat Hanh
 * What We Talk About When We Talk About Love, Raymond Carver
