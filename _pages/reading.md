@@ -13,6 +13,8 @@ This list is likely out-of-date.
 
 2022
 ------
+* Everything I Never Told You, Celeste Ng
+* People We Meet on Vacation, Emily Henry
 * The Year of Magical Thinking, Joan Didion
 * A Manual for Cleaning Women: Selected Stories, Lucia Berlin
 * Such a Fun Age, Kiley Reid
