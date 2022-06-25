@@ -16,7 +16,7 @@ Publications
 ------
 * **Use-Case-Grounded Simulations for Explanation Evaluation.**<br/>
 Under Review.<br/>
-Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin, Gregory Plumb, Ameet Talwalkar.<br/>
+Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin\*, Gregory Plumb\*, Ameet Talwalkar.<br/>
 [(arXiV)](https://arxiv.org/abs/2206.02256)<br/>
 * **OpenXAI: Towards a Transparent Evaluation of Model Explanations.**<br/>
 Under Review.<br/>
