@@ -12,14 +12,16 @@ Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student i
 
 My research studies methods to help humans understand and audit machine learning models.  I am interested in interpretability and explainability, human-AI interaction, and methods that can help discover or mitigate systemic failures. <br/>
 
-Research
+Publications
 ------
-* **Simulated User Studies for Explanation Evaluation.**<br/>
+* **Use-Case-Grounded Simulations for Explanation Evaluation.**<br/>
 Under Review.<br/>
 Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin, Gregory Plumb, Ameet Talwalkar.<br/>
-* **Rethinking Stability for Attribution-Based Explanations.**<br/>
-ICLR PAIR2Struct Workshop, 2022 (Oral)<br/>
-Chirag Agarwal, <b>Nari Johnson</b>, Martin Pawelczyk,  Satyapriya Krishna, Eshika Saxena, Marinka Zitnik, Hima Lakkaraju.<br/>
+[(arXiV)](https://arxiv.org/abs/2206.02256)<br/>
+* **OpenXAI: Towards a Transparent Evaluation of Model Explanations.**<br/>
+Under Review.<br/>
+Chirag Agarwal, Eshika Saxena, Satyapriya Krishna, Martin Pawelczyk, <b>Nari Johnson</b>, Isha Puri, Marinka Zitnik, Himabindu Lakkaraju.<br/>
+[(arXiV)](https://arxiv.org/abs/2206.11104)<br/>
 * **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
 AMIA Annual Symposium, 2021<br/>
 <b>Nari Johnson</b>, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
