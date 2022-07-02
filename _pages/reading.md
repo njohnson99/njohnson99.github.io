@@ -17,15 +17,17 @@ I love to read with friends!  Below are some discussion questions that I wrote f
 
 # What I've been reading:
 
+(favourites marked with a ✿)
+
 **2022**
 * Conversations With Friends, Sally Rooney
 * Everything I Never Told You, Celeste Ng
 * People We Meet on Vacation, Emily Henry
 * The Year of Magical Thinking, Joan Didion
-* A Manual for Cleaning Women: Selected Stories, Lucia Berlin
+* A Manual for Cleaning Women: Selected Stories, Lucia Berlin ✿
 * Such a Fun Age, Kiley Reid
 * Know My Name, Chanel Miller
-* Peace is Every Step, Thich Nhat Hanh
+* Peace is Every Step, Thich Nhat Hanh ✿
 * What We Talk About When We Talk About Love, Raymond Carver
 
 **2021**
@@ -33,15 +35,15 @@ I love to read with friends!  Below are some discussion questions that I wrote f
 * The Idiot, Elif Batuman
 * Wish You Were Here, Jodi Picoult
 * The Seven Husbands of Evelyn Hugo, Taylor Jenkins Reid
-* It Ends With Us, Colleen Hoover
+* It Ends With Us, Colleen Hoover ✿
 * Devotions, Mary Oliver
 * Beautiful World, Where Are You, Sally Rooney
 * Misfits, Michaela Coel
-* Crying in H Mart, Michelle Zauner
-* All About Love, bell hooks
+* Crying in H Mart, Michelle Zauner ✿
+* All About Love, bell hooks ✿
 * On Earth We're Briefly Gorgeous, Ocean Vuong
 
-Favourites
+Other favourites from before
 ------
 * Race After Technology, Ruha Benjamin
 * The Age of Surveillance Capitalism, Shosana Zuboff
