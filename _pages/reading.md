@@ -7,12 +7,19 @@ redirect_from:
   - /reading.html
 ---
 
-In Summer 2021 I decided to keep a public list of books that I've read for fun.  I am always looking for recommendations in fiction, poetry, and nonfiction (especially science and technology studies).
+When I started grad school, I began to keep a public list of books that I've read for fun.  I am always looking for recommendations in fiction, poetry, and nonfiction (especially science and technology studies).
 
-This list is likely out-of-date.
+**Book Club**
+
+I love to read with friends!  Below are some discussion questions that I've written for a few works:
+* [A Manual for Cleaning Women: Selected Stories](https://docs.google.com/document/d/1RY3_SNmcNZJ-ekVzGpkJXaYLb1NWi4lZ0pDJTpiO75k/edit?usp=sharing), Lucia Berlin
+* [Brotopia](https://docs.google.com/document/d/1QSCm24p2Fc6-E66ddi1zniWIQKhHGBCBlWrvexvy100/edit?usp=sharing), Emily Chang
+
+**What I've been reading:**
 
 2022
 ------
+* Conversations With Friends, Sally Rooney
 * Everything I Never Told You, Celeste Ng
 * People We Meet on Vacation, Emily Henry
 * The Year of Magical Thinking, Joan Didion
