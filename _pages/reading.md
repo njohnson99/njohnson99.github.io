@@ -18,7 +18,6 @@ I love to read with friends!  Below are some discussion questions that I've writ
 # What I've been reading:
 
 **2022**
-------
 * Conversations With Friends, Sally Rooney
 * Everything I Never Told You, Celeste Ng
 * People We Meet on Vacation, Emily Henry
@@ -30,7 +29,6 @@ I love to read with friends!  Below are some discussion questions that I've writ
 * What We Talk About When We Talk About Love, Raymond Carver
 
 **2021**
-------
 * The Last Thing He Ever Told Me, Laura Dave
 * The Idiot, Elif Batuman
 * Wish You Were Here, Jodi Picoult
