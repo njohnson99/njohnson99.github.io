@@ -11,7 +11,7 @@ When I started grad school, I began to keep a public list of books that I've rea
 
 # Book Club
 
-I love to read with friends!  Below are some discussion questions that I've written for a few works:
+I love to read with friends!  Below are some discussion questions that I wrote for select works (spoiler warning):
 * [A Manual for Cleaning Women: Selected Stories](https://docs.google.com/document/d/1RY3_SNmcNZJ-ekVzGpkJXaYLb1NWi4lZ0pDJTpiO75k/edit?usp=sharing), Lucia Berlin
 * [Brotopia](https://docs.google.com/document/d/1QSCm24p2Fc6-E66ddi1zniWIQKhHGBCBlWrvexvy100/edit?usp=sharing), Emily Chang
 
