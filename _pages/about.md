@@ -31,6 +31,8 @@ AMIA Annual Symposium, 2021<br/>
 <b>Nari Johnson</b>, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
 [(arXiV)](https://arxiv.org/abs/2109.11043)<br/>
 
+<i>\* denotes equal contribution.</i>
+
 
 Teaching
 ------
