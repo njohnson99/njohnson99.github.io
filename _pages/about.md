@@ -12,7 +12,7 @@ Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student i
 
 My research studies methods to help humans understand and evaluate machine learning models.  I am interested in interpretability and explainability, human-AI interaction, and methods that can help discover or mitigate systemic failures. <br/>
 
-Selected Research
+Selected Work
 ------
 * **Evaluating Systemic Error Detection Methods using Synthetic Images.**<br/>
 ICML Workshop on Spurious Correlations, Invariance, and Stability, 2022<br/>
