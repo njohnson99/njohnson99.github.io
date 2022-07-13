@@ -12,8 +12,12 @@ Hello! My name is Nari (rhymes with "Atari") and I am a first-year PhD student i
 
 My research studies methods to help humans understand and evaluate machine learning models.  I am interested in interpretability and explainability, human-AI interaction, and methods that can help discover or mitigate systemic failures. <br/>
 
-Publications
+Selected Research
 ------
+* **Evaluating Systemic Error Detection Methods using Synthetic Images.**<br/>
+ICML Workshop on Spurious Correlations, Invariance, and Stability, 2022<br/>
+Gregory Plumb\*, <b>Nari Johnson\*</b>, Ángel Alexander Cabrera, Marco Tulio Ribeiro, Ameet Talwalkar<br/>
+[(arXiV)](https://arxiv.org/abs/2207.04104)<br/>
 * **Use-Case-Grounded Simulations for Explanation Evaluation.**<br/>
 Under Review.<br/>
 Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin\*, Gregory Plumb\*, Ameet Talwalkar.<br/>
