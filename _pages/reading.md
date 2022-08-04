@@ -20,6 +20,8 @@ I love to read with friends!  Below are some discussion questions that I wrote f
 (favourites marked with a ✿)
 
 **2022**
+* Acceptance, Emi Nietfeld
+* Where the Crawdads Sing, Delia Owens
 * Conversations With Friends, Sally Rooney
 * Everything I Never Told You, Celeste Ng
 * People We Meet on Vacation, Emily Henry
