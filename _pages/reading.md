@@ -23,7 +23,6 @@ I love to read with friends!  Below are some discussion questions that I wrote f
 * Acceptance, Emi Nietfeld
 * Where the Crawdads Sing, Delia Owens
 * Conversations With Friends, Sally Rooney
-* Everything I Never Told You, Celeste Ng
 * People We Meet on Vacation, Emily Henry
 * The Year of Magical Thinking, Joan Didion
 * A Manual for Cleaning Women: Selected Stories, Lucia Berlin ✿
