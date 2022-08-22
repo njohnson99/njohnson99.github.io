@@ -7,13 +7,7 @@ redirect_from:
   - /reading.html
 ---
 
-When I started grad school, I began to keep a public list of books that I've read for fun.  I am always looking for recommendations in fiction, poetry, and nonfiction (especially science and technology studies).
-
-# Book Club
-
-I love to read with friends!  Below are some discussion questions that I wrote for select works (spoiler warning):
-* [A Manual for Cleaning Women: Selected Stories](https://docs.google.com/document/d/1RY3_SNmcNZJ-ekVzGpkJXaYLb1NWi4lZ0pDJTpiO75k/edit?usp=sharing), Lucia Berlin
-* [Brotopia](https://docs.google.com/document/d/1QSCm24p2Fc6-E66ddi1zniWIQKhHGBCBlWrvexvy100/edit?usp=sharing), Emily Chang
+When I started grad school, I began to keep a public list of books that I've read for fun.  The below lists are a work-in-progress, and likely out of date.
 
 # What I've been reading:
 
@@ -44,7 +38,18 @@ I love to read with friends!  Below are some discussion questions that I wrote f
 * All About Love, bell hooks ✿
 * On Earth We're Briefly Gorgeous, Ocean Vuong
 
-Other favourites from before
+# Book Club
+
+I love to read with friends!  Below are some discussion questions that I wrote for select works (spoiler warning):
+* [A Manual for Cleaning Women: Selected Stories](https://docs.google.com/document/d/1RY3_SNmcNZJ-ekVzGpkJXaYLb1NWi4lZ0pDJTpiO75k/edit?usp=sharing), Lucia Berlin
+* [Brotopia](https://docs.google.com/document/d/1QSCm24p2Fc6-E66ddi1zniWIQKhHGBCBlWrvexvy100/edit?usp=sharing), Emily Chang
+
+Favourites
 ------
+
+Books: 
 * Race After Technology, Ruha Benjamin
 * The Age of Surveillance Capitalism, Shosana Zuboff
+
+Essays & Short Stories:
+* [Always Be Optimizing](https://www.theguardian.com/news/2019/aug/02/athleisure-barre-kale-tyranny-ideal-woman-labour), Jia Tolentino
