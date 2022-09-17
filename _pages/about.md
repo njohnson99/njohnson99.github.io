@@ -28,7 +28,7 @@ Chirag Agarwal, Eshika Saxena, Satyapriya Krishna, Martin Pawelczyk, <b>Nari Joh
 [(arXiV)](https://arxiv.org/abs/2206.11104)<br/>
 * **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
 AMIA Annual Symposium, 2021<br/>
-<i>Student Paper Competition Finalist, Knowledge Discovery & Data Mining Student Innovation Award.</i>
+<i>Student Paper Competition Finalist, Knowledge Discovery & Data Mining Student Innovation Award.</i><br/>
 <b>Nari Johnson</b>, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
 [(arXiV)](https://arxiv.org/abs/2109.11043)<br/>
 
