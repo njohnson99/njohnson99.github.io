@@ -19,15 +19,16 @@ ICML Workshop on Spurious Correlations, Invariance, and Stability, 2022<br/>
 Gregory Plumb\*, <b>Nari Johnson\*</b>, Ángel Alexander Cabrera, Marco Tulio Ribeiro, Ameet Talwalkar<br/>
 [(arXiV)](https://arxiv.org/abs/2207.04104)<br/>
 * **Use-Case-Grounded Simulations for Explanation Evaluation.**<br/>
-Under Review.<br/>
+NeurIPS, 2022<br/>
 Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin\*, Gregory Plumb\*, Ameet Talwalkar.<br/>
 [(arXiV)](https://arxiv.org/abs/2206.02256)<br/>
 * **OpenXAI: Towards a Transparent Evaluation of Model Explanations.**<br/>
-Under Review.<br/>
+NeurIPS Datasets and Benchmarks Track, 2022<br/>
 Chirag Agarwal, Eshika Saxena, Satyapriya Krishna, Martin Pawelczyk, <b>Nari Johnson</b>, Isha Puri, Marinka Zitnik, Himabindu Lakkaraju.<br/>
 [(arXiV)](https://arxiv.org/abs/2206.11104)<br/>
 * **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
 AMIA Annual Symposium, 2021<br/>
+<i>Student Paper Competition Finalist, Knowledge Discovery & Data Mining Student Innovation Award.</i>
 <b>Nari Johnson</b>, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
 [(arXiV)](https://arxiv.org/abs/2109.11043)<br/>
 
@@ -48,7 +49,7 @@ Service
 
 I've previously served as elected Co-President of [Harvard Women in Computer Science](https://www.harvardwics.com/).  I also led our Advocacy Council, where I facilitated Harvard CS's first [inclusive teaching training](https://www.thecrimson.com/article/2020/10/7/cs-tf-training/).
 
-I care deeply about mental health advocacy, and previously volunteered as a trained counselor for [Indigo Peer Counseling](https://www.thecrimson.com/article/2016/2/17/Indigo-peer-counseling/).
+I care deeply about mental health advocacy, and volunteered as a trained counselor for [Indigo Peer Counseling](https://www.thecrimson.com/article/2016/2/17/Indigo-peer-counseling/).
 
 Contact
 ------
