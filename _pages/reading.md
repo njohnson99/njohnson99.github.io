@@ -14,6 +14,8 @@ When I started grad school, I began to keep a public list of books that I've rea
 (favourites marked with a ✿)
 
 **2022**
+* Trick Mirror, Jia Tolentino
+* Chemistry, Weike Wang ✿
 * Acceptance, Emi Nietfeld
 * Where the Crawdads Sing, Delia Owens
 * Conversations With Friends, Sally Rooney
