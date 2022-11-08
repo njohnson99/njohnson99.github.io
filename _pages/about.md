@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! My name is Nari (rhymes with "Atari") and I am a second year PhD student in Carnegie Mellon University's Machine Learning Department advised by [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/).  I graduated from Harvard in 2021 with a BA and MS in Computer Science, where I am grateful to have worked with [Finale Doshi-Velez](https://dtak.github.io).<br/>
 
-My research studies methods to help humans understand and evaluate machine learning models.  I am interested in interpretability and explainability, human-AI interaction, and methods that can help discover or mitigate systemic failures. <br/>
+My research studies methods to help humans understand and evaluate machine learning models.  I am currently interested in interpretability and explainability, error analysis, and methods to improve model robustness to real-world distribution shifts. <br/>
 
 Selected Work
 ------
@@ -46,10 +46,9 @@ Teaching
 
 Service
 ------
+I care deeply about expanding access to and creating supportive communities in computing.  At CMU, I participate in the AI Mentorship Program and [TechNights](https://www.cmu.edu/scs/technights/).
 
-I've previously served as elected Co-President of [Harvard Women in Computer Science](https://www.harvardwics.com/).  I also led our Advocacy Council, where I facilitated Harvard CS's first [inclusive teaching training](https://www.thecrimson.com/article/2020/10/7/cs-tf-training/).
-
-I care deeply about mental health advocacy, and volunteered as a trained counselor for [Indigo Peer Counseling](https://www.thecrimson.com/article/2016/2/17/Indigo-peer-counseling/).
+In a past life, I served as elected Co-President of [Harvard Women in Computer Science](https://www.harvardwics.com/) and led our Advocacy Council, where I facilitated Harvard CS's first [inclusive teaching training](https://www.thecrimson.com/article/2020/10/7/cs-tf-training/).  I also volunteered as a trained counselor for [Indigo Peer Counseling](https://www.thecrimson.com/article/2016/2/17/Indigo-peer-counseling/).
 
 Contact
 ------
