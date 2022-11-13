@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! My name is Nari (rhymes with "Atari") and I am a second year PhD student in Carnegie Mellon University's Machine Learning Department advised by [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/).  I graduated from Harvard in 2021 with a BA and MS in Computer Science, where I am grateful to have worked with [Finale Doshi-Velez](https://dtak.github.io).<br/>
 
-My research studies methods to help humans understand and evaluate machine learning models.  I am currently interested in interpretability and explainability, error analysis, and methods to improve model robustness to real-world distribution shifts. <br/>
+My research studies methods to help humans understand and evaluate machine learning models.  I am currently interested in tools to help stakeholders discover and fix systemic model errors (such as reliance on spurious features). <br/>
 
 Selected Work
 ------
