@@ -14,6 +14,10 @@ When I started grad school, I began to keep a public list of books that I've rea
 (favourites marked with a ✿)
 
 **2022**
+* Giovanni's Room, James Baldwin
+* My Year of Rest and Relaxation, Ottessa Moshfegh
+* Paul Takes the Form of a Mortal Girl, Andrea Lawlor
+* I'm Glad My Mom Died, Jennette McCurdy
 * Klara and the Sun, Kazuo Ishiguro
 * Never Let Me Go, Kazuo Ishiguro
 * Trick Mirror, Jia Tolentino
