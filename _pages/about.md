@@ -12,8 +12,6 @@ Hello! My name is Nari (rhymes with "Atari") and I am a second year PhD student 
 
 My research is motivated by the goal of developing models that are "right for the right reasons" to anticipate and mitigate potential algorithmic harm.  I study tools (such as model explanations or interactive visualizations) designed to help humans understand model behavior.<br/>
 
-More recently, I have been interested in methods to "fix" brittle models, i.e. correct systemic model errors such as reliance on spurious features.  I am also interested in how we can incorporate human supervision into model training.<br/>
-
 Selected Work
 ------
 * **Evaluating Systemic Error Detection Methods using Synthetic Images.**<br/>
@@ -41,12 +39,13 @@ AMIA Annual Symposium, 2021<br/>
 
 Teaching
 ------
-* Head Teaching Fellow for [CS 181: Machine Learning](https://harvard-ml-courses.github.io/cs181-web/), Spring 2021
-* Alex Patel Fellow for [CS 121: Theoretical Computer Science](http://people.seas.harvard.edu/~madhusudan/courses/Fall2020/), Fall 2020
-* Course Assistant for [MITx's Machine Learning for Healthcare](https://www.edx.org/course/machine-learning-for-healthcare), Summer 2020
-* Teaching Fellow for [CS 181: Machine Learning](https://harvard-ml-courses.github.io/cs181-web-2020/), Spring 2020
-* Teaching Fellow for [CS 121: Theoretical Computer Science](https://cs121.boazbarak.org/), Fall 2019
-* Course Assistant for Math 23c: Mathematics for Computation and Data Science, Spring 2019
+* Graduate Teaching Assistant for [10-701: Introduction to Machine Learning](https://www.cs.cmu.edu/~aarti/Class/10701_Spring23/) at CMU, Spring 2021
+* Head Teaching Fellow for [CS 181: Machine Learning](https://harvard-ml-courses.github.io/cs181-web/) at Harvard, Spring 2021
+* Alex Patel Fellow for [CS 121: Theoretical Computer Science](http://people.seas.harvard.edu/~madhusudan/courses/Fall2020/) at Harvard, Fall 2020
+* Course Assistant for [MITx's Machine Learning for Healthcare](https://www.edx.org/course/machine-learning-for-healthcare) at Harvard, Summer 2020
+* Teaching Fellow for [CS 181: Machine Learning](https://harvard-ml-courses.github.io/cs181-web-2020/) at Harvard, Spring 2020
+* Teaching Fellow for [CS 121: Theoretical Computer Science](https://cs121.boazbarak.org/) at Harvard, Fall 2019
+* Course Assistant for Math 23c: Mathematics for Computation and Data Science at Harvard, Spring 2019
 
 Service
 ------
