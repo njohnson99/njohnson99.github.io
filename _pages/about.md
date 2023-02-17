@@ -39,13 +39,16 @@ AMIA Annual Symposium, 2021<br/>
 
 Teaching
 ------
-* Graduate Teaching Assistant for [10-701: Introduction to Machine Learning](https://www.cs.cmu.edu/~aarti/Class/10701_Spring23/) at CMU, Spring 2021
-* Head Teaching Fellow for [CS 181: Machine Learning](https://harvard-ml-courses.github.io/cs181-web/) at Harvard, Spring 2021
-* Alex Patel Fellow for [CS 121: Theoretical Computer Science](http://people.seas.harvard.edu/~madhusudan/courses/Fall2020/) at Harvard, Fall 2020
-* Course Assistant for [MITx's Machine Learning for Healthcare](https://www.edx.org/course/machine-learning-for-healthcare) at Harvard, Summer 2020
-* Teaching Fellow for [CS 181: Machine Learning](https://harvard-ml-courses.github.io/cs181-web-2020/) at Harvard, Spring 2020
-* Teaching Fellow for [CS 121: Theoretical Computer Science](https://cs121.boazbarak.org/) at Harvard, Fall 2019
-* Course Assistant for Math 23c: Mathematics for Computation and Data Science at Harvard, Spring 2019
+@ CMU:
+* Graduate Teaching Assistant for [10-701: Introduction to Machine Learning](https://www.cs.cmu.edu/~aarti/Class/10701_Spring23/), Spring 2023
+
+@ Harvard:
+* Head Teaching Fellow for [CS 181: Machine Learning](https://harvard-ml-courses.github.io/cs181-web/), Spring 2021
+* Alex Patel Fellow for [CS 121: Theoretical Computer Science](http://people.seas.harvard.edu/~madhusudan/courses/Fall2020/), Fall 2020
+* Course Assistant for [MITx's Machine Learning for Healthcare](https://www.edx.org/course/machine-learning-for-healthcare), Summer 2020
+* Teaching Fellow for [CS 181: Machine Learning](https://harvard-ml-courses.github.io/cs181-web-2020/), Spring 2020
+* Teaching Fellow for [CS 121: Theoretical Computer Science](https://cs121.boazbarak.org/), Fall 2019
+* Course Assistant for Math 23c: Mathematics for Computation and Data Science, Spring 2019
 
 Service
 ------
