@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! My name is Nari (rhymes with "Atari") and I am a second year PhD student in Carnegie Mellon University's Machine Learning Department advised by [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/).  I graduated from Harvard in 2021 with a BA and MS in Computer Science, where I am grateful to have worked with [Finale Doshi-Velez](https://dtak.github.io).<br/>
 
-My recent research studies tools designed to help humans understand the behavior of complex models, such as [model explanations](https://arxiv.org/abs/2206.02256) or [slice discovery](https://arxiv.org/abs/2207.04104) algorithms.  I am broadly interested in human-AI interaction, [fairness, accountability, and transparency](https://www.fatml.org) in ML, and designing new ML systems to aid human decision-making. <br/>
+My recent research studies tools designed to help humans understand the behavior of complex models, such as [model explanations](https://arxiv.org/abs/2206.02256) or [slice discovery](https://arxiv.org/abs/2207.04104) algorithms.  I am broadly interested in human-AI interaction, [fairness, accountability, and transparency](https://www.fatml.org) in ML, and designing new ML systems to aid human decision-making in the real world. <br/>
 
 Selected Work
 ------
