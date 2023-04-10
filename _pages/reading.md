@@ -13,6 +13,11 @@ When I started grad school, I began to keep a public list of books that I've rea
 
 (favourites marked with a ✿)
 
+**2023**
+* Tomorrow, Tomorrow, Tomorrow, Gabrielle Zavin
+* The PhD Grind: A PhD Student Memoir, Philip Guo
+* Either/Or, Elif Batuman
+
 **2022**
 * Giovanni's Room, James Baldwin
 * My Year of Rest and Relaxation, Ottessa Moshfegh
