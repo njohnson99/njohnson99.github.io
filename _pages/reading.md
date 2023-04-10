@@ -43,7 +43,7 @@ When I started grad school, I began to keep a public list of books that I've rea
 * The Idiot, Elif Batuman
 * Wish You Were Here, Jodi Picoult
 * The Seven Husbands of Evelyn Hugo, Taylor Jenkins Reid
-* It Ends With Us, Colleen Hoover ✿
+* It Ends With Us, Colleen Hoover
 * Devotions, Mary Oliver
 * Beautiful World, Where Are You, Sally Rooney
 * Misfits, Michaela Coel
