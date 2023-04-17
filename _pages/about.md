@@ -18,17 +18,17 @@ Selected Work
 Preprint (under review)<br/>
 ICML Workshop on Spurious Correlations, Invariance, and Stability, 2022<br/>
 Gregory Plumb\*, <b>Nari Johnson\*</b>, Ángel Alexander Cabrera, Marco Tulio Ribeiro, Ameet Talwalkar<br/>
-[(arXiV)](https://arxiv.org/abs/2207.04104)<br/>
+[(arXiv)](https://arxiv.org/abs/2207.04104)<br/>
 * **Use-Case-Grounded Simulations for Explanation Evaluation.**<br/>
 NeurIPS, 2022<br/>
 Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin\*, Gregory Plumb\*, Ameet Talwalkar.<br/>
-[(arXiV)](https://arxiv.org/abs/2206.02256)<br/>
+[(arXiv)](https://arxiv.org/abs/2206.02256)<br/>
 * **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
 AMIA Annual Symposium, 2021<br/>
 <i>Student Paper Competition Finalist</i><br/>
 <i>Knowledge Discovery & Data Mining Student Innovation Award</i><br/>
 <b>Nari Johnson</b>, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.<br/>
-[(arXiV)](https://arxiv.org/abs/2109.11043)<br/>
+[(arXiv)](https://arxiv.org/abs/2109.11043)<br/>
 
 <i>\* denotes equal contribution.</i>
 
