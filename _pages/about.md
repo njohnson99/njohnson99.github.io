@@ -23,11 +23,6 @@ Gregory Plumb\*, <b>Nari Johnson\*</b>, Ángel Alexander Cabrera, Marco Tulio Ri
 NeurIPS, 2022<br/>
 Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin\*, Gregory Plumb\*, Ameet Talwalkar.<br/>
 [(arXiV)](https://arxiv.org/abs/2206.02256)<br/>
-* **OpenXAI: Towards a Transparent Evaluation of Model Explanations.**<br/>
-NeurIPS Datasets & Benchmarks Track, 2022<br/>
-ICLR Pair2Struct Workshop, 2022 <i>(Oral)</i><br/>
-Chirag Agarwal, Eshika Saxena, Satyapriya Krishna, Martin Pawelczyk, <b>Nari Johnson</b>, Isha Puri, Marinka Zitnik, Himabindu Lakkaraju.<br/>
-[(arXiV)](https://arxiv.org/pdf/2206.11104.pdf)<br/>
 * **Learning Predictive and Interpretable Timeseries Summaries from ICU Data.**<br/>
 AMIA Annual Symposium, 2021<br/>
 <i>Student Paper Competition Finalist</i><br/>
