@@ -17,7 +17,7 @@ Selected Work
 * **Towards a More Rigorous Science of Blindspot Discovery in Image Models.**<br/>
 Preprint (under review)<br/>
 ICML Workshop on Spurious Correlations, Invariance, and Stability, 2022<br/>
-Gregory Plumb\*, <b>Nari Johnson\*</b>, Ángel Alexander Cabrera, Marco Tulio Ribeiro, Ameet Talwalkar<br/>
+Gregory Plumb\*, <b>Nari Johnson\*</b>, Ángel Alexander Cabrera, Ameet Talwalkar<br/>
 [(arXiv)](https://arxiv.org/abs/2207.04104)<br/>
 * **Use-Case-Grounded Simulations for Explanation Evaluation.**<br/>
 NeurIPS, 2022<br/>
