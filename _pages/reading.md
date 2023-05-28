@@ -14,6 +14,8 @@ When I started grad school, I began to keep a public list of books that I've rea
 (favourites marked with a ✿)
 
 **2023**
+* Stories of Your Life and Others, Ted Chiang
+* Severance, Ling Ma ✿
 * They Can't Kill Us Until They Kill Us, Hanif Abdurraqib
 * Tomorrow, Tomorrow, Tomorrow, Gabrielle Zavin
 * The PhD Grind: A PhD Student Memoir, Philip Guo
