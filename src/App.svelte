@@ -119,7 +119,7 @@
     margin-right: 2cm;
 	margin-bottom: 4cm;
 	font-size: 1.7vw;
-	line-height: 3vh;
+	line-height: 4vh;
 	font-family: 'Editorial', PP Editorial New;
 }
 
