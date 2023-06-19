@@ -34,10 +34,10 @@
 			</div>
 
 			<div class = "article">
-				<i>"Towards a More Rigorous Science of Blindspot Discovery in Image Models"</i>. 
+				<i>"Towards a More Rigorous Science of Blindspot Discovery in Image Classification Models"</i>. 
 				Gregory Plumb*, <b>Nari Johnson</b>*, Ángel Alexander Cabrera, Ameet Talwalkar.
 				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2022.
-				Preprint (under review).
+				Transactions on ML Research (TMLR), 2023.
 				[<a href = "https://arxiv.org/abs/2207.04104">arXiv</a>]
 			</div>
 
@@ -116,19 +116,19 @@
 #page-container { 
 	margin-top: 2cm;
     margin-left: 2cm;
-    margin-right: 8cm;
+    margin-right: 2cm;
 	margin-bottom: 4cm;
-	font-size: 30px;
+	font-size: 1.7vw;
 	line-height: 40px;
 	font-family: 'Editorial', PP Editorial New;
 }
 
 #links {
 	margin-bottom: 1cm;
-	font-size:25px;
+	font-size: 1.4vw;
 }
 #header{
-	font-size: 40px;
+	font-size: 1.9vw;
 	margin-bottom: 10px;
 	font-family: 'Editorial', PP Editorial New;
 }
@@ -138,7 +138,7 @@
 }
 
 #research-div {
-	font-size: 25px;
+	font-size: 1.3vw;
 	margin-bottom: 1cm;
 }
 
@@ -153,7 +153,7 @@ mark {
 
 #teaching-div {
 	margin-bottom: 10cm;
-	font-size: 25px;
+	font-size: 1.3vw;
 }
 
 </style>
