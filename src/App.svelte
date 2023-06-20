@@ -16,7 +16,7 @@
 	
 			I am broadly interested in the societal impacts of machine learning.  
 			My recent work uses methods from ML and HCI to examine tools that help stakeholders understand the behavior of complex models.  
-			My present research interests lie in algorithmic transparency, evaluation, and accountability.<br><br>
+			My present research interests lie in AI transparency, evaluation, and accountability.<br><br>
 
 			Email: narij at cmu dot edu
 		</div>
@@ -28,7 +28,8 @@
 			
 			<div class = "article">
 				<i>"Where Does My Model Underperform? A Human Evaluation of Slice Discovery Algorithms"</i>. 
-				<b>Nari Johnson</b>, Ángel Alexander Cabrera, Gregory Plumb, Ameet Talwalkar. 
+				<b>Nari Johnson</b>, Ángel Alexander Cabrera, Gregory Plumb, Ameet Talwalkar.
+				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2023 <mark>(Oral)</mark>.
 				Preprint (under review). 
 				[<a href = "https://arxiv.org/abs/2306.08167">arXiv</a>]
 			</div>
@@ -118,17 +119,17 @@
     margin-left: 2cm;
     margin-right: 2cm;
 	margin-bottom: 4cm;
-	font-size: 1.7vw;
-	line-height: 4vh;
+	font-size: 30px;
+	line-height: 40px;
 	font-family: 'Editorial', PP Editorial New;
 }
 
 #links {
 	margin-bottom: 1cm;
-	font-size: 1.4vw;
+	font-size:25px;
 }
 #header{
-	font-size: 1.9vw;
+	font-size: 40px;
 	margin-bottom: 10px;
 	font-family: 'Editorial', PP Editorial New;
 }
@@ -138,7 +139,7 @@
 }
 
 #research-div {
-	font-size: 1.3vw;
+	font-size: 25px;
 	margin-bottom: 1cm;
 }
 
@@ -153,7 +154,7 @@ mark {
 
 #teaching-div {
 	margin-bottom: 10cm;
-	font-size: 1.3vw;
+	font-size: 25px;
 }
 
 </style>
