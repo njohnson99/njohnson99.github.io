@@ -18,7 +18,7 @@
 			My recent work uses methods from ML and HCI to examine tools that help stakeholders understand the behavior of complex models.  
 			My present research interests lie in AI transparency, evaluation, and accountability.<br><br>
 
-			Email: narij at cmu dot edu
+			Email: narij at andrew dot cmu dot edu
 		</div>
 
 		<div id = "research-div">
