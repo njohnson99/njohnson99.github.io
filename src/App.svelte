@@ -47,7 +47,7 @@
 				<i>"Use-Case-Grounded Simulations for Explanation Evaluation"</i>. 
 				Valerie Chen, <b>Nari Johnson</b>, Nicholay Topin*, Gregory Plumb*, Ameet Talwalkar.
 				NeurIPS, 2022.
-				[<a href = "https://arxiv.org/abs/2206.02256">arXiv</a>]
+				[<a href = "https://arxiv.org/abs/2206.02256">arXiv</a>] [<a href = "https://github.com/valeriechen/simeval_tutorial/tree/main">code</a>]
 			</div>
 
 
@@ -84,6 +84,16 @@
 				<li><a href = "https://cs121.boazbarak.org/">CS 121: Theoretical Computer Science</a>, Fall 2019</li>
 				<li><a href = "https://qrd.college.harvard.edu/classes/math-23c-mathematics-computation-statistics-and-data-science">Math 23c: Mathematics for Computation and Data Science</a>, Spring 2019</li>
 			</ul>
+		</div>
+
+		<div id = "service-div">
+			<div id = "header">Service</div>
+
+			I care deeply about creating supportive communities in computing.
+			At CMU, I've participated in <a href = "https://www.cmu.edu/scs/technights/">TechNights</a> and the AI Mentorship Program.
+			In a past life, I served as elected Co-President and led the Advocacy Council of <a href = "https://www.harvardwics.com">Harvard Women in Computer Science</a>.<br><br>
+
+			<b>Professional Service</b>:  I've served as a reviewer for several conferences, including NeurIPS 2023 and CHI LBW 2023.<br>
 		</div>
 
 		<div id = "filler"> </div>
@@ -153,6 +163,11 @@ mark {
 }
 
 #teaching-div {
+	margin-bottom: 1cm;
+	font-size: 25px;
+}
+
+#service-div {
 	margin-bottom: 10cm;
 	font-size: 25px;
 }
