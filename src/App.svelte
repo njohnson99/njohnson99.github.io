@@ -39,7 +39,7 @@
 				Gregory Plumb*, <b>Nari Johnson</b>*, Ángel Alexander Cabrera, Ameet Talwalkar.
 				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2022.
 				Transactions on ML Research (TMLR), 2023.
-				[<a href = "https://arxiv.org/abs/2207.04104">arXiv</a>]
+				[<a href = "https://arxiv.org/abs/2207.04104">arXiv</a>] [<a href = "https://github.com/HazyResearch/domino/blob/main/domino/_slice/planespot.py">code: PlaneSpot</a>]
 			</div>
 
 
