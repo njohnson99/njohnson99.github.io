@@ -29,7 +29,7 @@
 			<div class = "article">
 				<i>"Where Does My Model Underperform? A Human Evaluation of Slice Discovery Algorithms"</i>. 
 				<b>Nari Johnson</b>, Ángel Alexander Cabrera, Gregory Plumb, Ameet Talwalkar.
-				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2023 <mark>(Oral)</mark>.
+				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2023 <mark>(Spotlight)</mark>.
 				Preprint (under review). 
 				[<a href = "https://arxiv.org/abs/2306.08167">arXiv</a>]
 			</div>
@@ -39,7 +39,7 @@
 				Gregory Plumb*, <b>Nari Johnson</b>*, Ángel Alexander Cabrera, Ameet Talwalkar.
 				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2022.
 				Transactions on ML Research (TMLR), 2023.
-				[<a href = "https://arxiv.org/abs/2207.04104">arXiv</a>] [<a href = "https://github.com/HazyResearch/domino/blob/main/domino/_slice/planespot.py">code: PlaneSpot</a>]
+				[<a href = "https://arxiv.org/abs/2207.04104">arXiv</a>] [<a href = "https://github.com/HazyResearch/domino/blob/main/domino/_slice/planespot.py">code: PlaneSpot</a>] [<a href = "https://github.com/njohnson99/spotcheck">code: SpotCheck</a>]
 			</div>
 
 
