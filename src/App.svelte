@@ -93,7 +93,7 @@
 			At CMU, I've participated in <a href = "https://www.cmu.edu/scs/technights/">TechNights</a> and the AI Mentorship Program.
 			In a past life, I served as elected Co-President and led the Advocacy Council of <a href = "https://www.harvardwics.com">Harvard Women in Computer Science</a>.<br><br>
 
-			<b>Professional Service</b>:  I've served as a reviewer for several conferences, including NeurIPS 2023 and CHI LBW 2023.<br>
+			<b>Professional Service</b>:  I've served as a reviewer for: NeurIPS 2023, CHI LBW 2023.<br>
 		</div>
 
 		<div id = "filler"> </div>
