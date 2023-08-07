@@ -18,8 +18,6 @@
 			My recent work uses methods from ML and HCI to examine tools that help stakeholders understand the behavior of complex models.  
 			My present research interests lie in AI transparency, evaluation, and accountability.<br><br>
 
-			<b>News: </b> I will be <b>attending ICML 2023 (workshops only) in Honolulu</b> to present our recent work on evaluating slice discovery tools!  I'd be so happy to meet with folks also interested in model debugging & evaluation.<br><br>
-
 			Email: narij at andrew dot cmu dot edu
 		</div>
 
@@ -32,7 +30,7 @@
 				<i>"Where Does My Model Underperform? A Human Evaluation of Slice Discovery Algorithms"</i>. 
 				<b>Nari Johnson</b>, Ángel Alexander Cabrera, Gregory Plumb, Ameet Talwalkar.
 				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2023 <mark>(Spotlight)</mark>.
-				Preprint (under review). 
+				AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2023.
 				[<a href = "https://arxiv.org/abs/2306.08167">arXiv</a>]
 			</div>
 
