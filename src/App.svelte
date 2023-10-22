@@ -14,9 +14,9 @@
 			I've also been lucky to work with <a href = "https://www.cs.cmu.edu/~atalwalk/">Ameet Talwalkar</a>.  
 			I graduated from Harvard in 2021 with a BA and MS in Computer Science, where I previously worked with <a href = "https://finale.seas.harvard.edu">Finale Doshi-Velez</a>.<br/><br/>
 	
-			I am broadly interested in the societal impacts of machine learning.  
-			My recent work uses methods from ML and HCI to examine tools that help stakeholders understand the behavior of complex models.  
-			My present research interests lie in AI transparency, evaluation, and accountability.<br><br>
+			I study tools and processes to promote the responsible use of artificial intelligence (AI) technologies.
+			My present research interests lie in AI transparency, evaluation, and accountability. 
+			<br><br>
 
 			Email: narij at andrew dot cmu dot edu
 		</div>
