@@ -11,18 +11,18 @@
 
 		<div id="intro-div">
 			Hello! My name is Nari (rhymes with "<a href = {starrynight}>starry</a>") and I am a PhD student in Carnegie Mellon University's <a href = "https://www.ml.cmu.edu/about/">Machine Learning Department</a> advised by <a href = "https://www.cs.cmu.edu/~hheidari/">Hoda Heidari</a>.
-			I've also been lucky to work with <a href = "https://www.cs.cmu.edu/~atalwalk/">Ameet Talwalkar</a>.  
-			I graduated from Harvard in 2021 with a BA and MS in Computer Science, where I previously worked with <a href = "https://finale.seas.harvard.edu">Finale Doshi-Velez</a>.<br/><br/>
-	
-			I study tools and processes to promote the responsible use of artificial intelligence (AI) technologies.
-			My present research interests lie in AI transparency, evaluation, and accountability. 
+			I graduated from Harvard in 2021 with a BA and MS in Computer Science, where I previously worked with <a href = "https://finale.seas.harvard.edu">Finale Doshi-Velez</a>.<br><br>
+			
+			I am broadly interested in understanding the societal impacts of artificial intelligence (AI) technologies, and how such technologies are (or might be) governed.
+			My recent work uses mixed methods from ML and HCI to study tools and processes that help stakeholders imagine, anticipate, and take action to mitigate potential harms of AI. 
+			My present research interests lie in AI transparency, evaluation, and accountability.
 			<br><br>
 
 			Email: narij at andrew dot cmu dot edu
 		</div>
 
 		<div id = "research-div">
-			<div id = "header">Recent Work</div>
+			<div id = "header">Research</div>
 
 			* denotes equal contribution.  Honors <mark>highlighted</mark>.
 			
@@ -30,8 +30,8 @@
 				<i>"Where Does My Model Underperform? A Human Evaluation of Slice Discovery Algorithms"</i>. 
 				<b>Nari Johnson</b>, Ángel Alexander Cabrera, Gregory Plumb, Ameet Talwalkar.
 				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2023 <mark>(Spotlight)</mark>.
-				AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2023.
-				[<a href = "https://arxiv.org/abs/2306.08167">arXiv</a>]
+				AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2023 <mark>(Best Paper Award)</mark>.
+				[<a href = "https://arxiv.org/abs/2306.08167">arXiv</a>] [<a href = "https://youtu.be/ObRWhgHJLUI?t=28">conference talk</a>]
 			</div>
 
 			<div class = "article">
@@ -60,7 +60,7 @@
 			</div>
 
 			<div class = "article">
-				<i>"Learning Predictive and Interpretable Timeseries Summaries from ICU Data."</i>.
+				<i>"Learning Predictive and Interpretable Timeseries Summaries from ICU Data"</i>.
 				<b>Nari Johnson</b>, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.
 				AMIA Annual Symposium, 2021.  <mark>Student Paper Competition Finalist</mark>, <mark>Knowledge Discovery & Data Mining Student Innovation Award</mark>.
 				[<a href = "https://arxiv.org/abs/2109.11043">arXiv</a>] 
@@ -93,7 +93,7 @@
 			At CMU, I've participated in <a href = "https://www.cmu.edu/scs/technights/">TechNights</a> and the AI Mentorship Program.
 			In a past life, I served as elected Co-President and led the Advocacy Council of <a href = "https://www.harvardwics.com">Harvard Women in Computer Science</a>.<br><br>
 
-			<b>Professional Service</b>:  I've served as a reviewer for: NeurIPS 2023, CHI LBW 2023.<br>
+			<b>Professional Service</b>:  I've served as a reviewer for: ICLR 2024, NeurIPS 2023, CHI LBW 2023.<br>
 		</div>
 
 		<div id = "filler"> </div>
