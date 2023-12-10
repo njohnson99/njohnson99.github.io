@@ -92,9 +92,8 @@
 		<div id = "teaching-div">
 			<div id = "header">Teaching</div>
 			
-			I've greatly enjoyed helping to teach several classes in college and my PhD.
-			My teaching philosophy is inspired by my commitment to expanding access to computing, and understanding teaching as a transformative practice.
-			In college, I designed and led Harvard Computer Science's first <a href = "https://www.thecrimson.com/article/2020/10/7/cs-tf-training/">inclusive teaching training</a>.
+			I've greatly enjoyed teaching several classes in college and my PhD.
+			As an undergrad, I designed and led Harvard Computer Science's first <a href = "https://www.thecrimson.com/article/2020/10/7/cs-tf-training/">inclusive teaching training</a>.
 			My teaching has been recognized with several honors, including Carnegie Mellon's <strong>Machine Learning TA Award</strong>, Harvard's <strong><a href = "https://csadvising.seas.harvard.edu/opportunities/patel/">Alex Patel Teaching Fellowship</a></strong>, and Harvard's <strong><a href = "https://bokcenter.harvard.edu/teaching-awards">Derek Bok Certificate of Distinction in Teaching</a> (4x)</strong>.<br>
 
 			<ul>
