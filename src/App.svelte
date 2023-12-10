@@ -14,24 +14,29 @@
 			I graduated from Harvard in 2021 with a BA and MS in Computer Science, where I previously worked with <a href = "https://finale.seas.harvard.edu">Finale Doshi-Velez</a>.<br><br>
 			
 			I am broadly interested in understanding the societal impacts of artificial intelligence (AI) technologies, and how such technologies are (or might be) governed.
-			My recent work uses mixed methods from ML and HCI to study tools and processes that help stakeholders imagine, anticipate, and take action to mitigate potential harms of AI. 
+			My recent work studies tools and processes that help stakeholders imagine, anticipate, and take action to mitigate potential harms of AI. 
 			My present research interests lie in AI transparency, evaluation, and accountability.
 			<br><br>
 
-			Email: narij at andrew dot cmu dot edu
+			Email: narij at andrew dot cmu dot edu 
 		</div>
 
-		<div id = "research-div">
-			<div id = "header">Research</div>
+		<div id = "conf-div">
+			<div id = "header">Refereed Publications (peer reviewed)</div>
 
-			* denotes equal contribution.  Honors <mark>highlighted</mark>.
+			* denotes equal contribution.
 			
 			<div class = "article">
 				<i>"Where Does My Model Underperform? A Human Evaluation of Slice Discovery Algorithms"</i>. 
 				<b>Nari Johnson</b>, Ángel Alexander Cabrera, Gregory Plumb, Ameet Talwalkar.
-				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2023 <mark>(Spotlight)</mark>.
-				AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2023 <mark>(Best Paper Award)</mark>.
-				[<a href = "https://arxiv.org/abs/2306.08167">arXiv</a>] [<a href = "https://youtu.be/ObRWhgHJLUI?t=28">conference talk</a>]
+				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2023.
+				AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2023.
+				[<a href = "https://arxiv.org/abs/2306.08167">arXiv</a>] [<a href = "https://youtu.be/ObRWhgHJLUI?t=28">conference talk</a>]<br>
+				<div class = "honors-div">
+					HCOMP Best Paper Award (top 1) <br>
+					Spotlight Presentation (top 5%) at the ICML SCIS Workshop
+				</div>
+				
 			</div>
 
 			<div class = "article">
@@ -54,17 +59,33 @@
 			<div class = "article">
 				<i>"OpenXAI: Towards a Transparent Evaluation of Model Explanations"</i>. 
 				Chirag Agarwal, Satyapriya Krishna, Eshika Saxena, Martin Pawelczyk, <b>Nari Johnson</b>, Isha Puri, Marinka Zitnik, Himabindu Lakkaraju.
-				ICLR Pair2Struct Workshop, 2022 <mark>(Oral)</mark>.
+				ICLR Pair2Struct Workshop, 2022.
 				NeurIPS Track on Datasets and Benchmarks, 2022.
-				[<a href = "https://arxiv.org/abs/2206.11104">arXiv</a>] [<a href = "https://open-xai.github.io">code</a>]
+				[<a href = "https://arxiv.org/abs/2206.11104">arXiv</a>] [<a href = "https://open-xai.github.io">code</a>] <br>
+				<div class = "honors-div">
+					Oral Presentation (top 5%) at the ICLR Pair2Struct Workshop
+				</div>
 			</div>
 
 			<div class = "article">
 				<i>"Learning Predictive and Interpretable Timeseries Summaries from ICU Data"</i>.
 				<b>Nari Johnson</b>, Sonali Parbhoo, Andrew Slavin Ross, Finale Doshi-Velez.
-				AMIA Annual Symposium, 2021.  <mark>Student Paper Competition Finalist</mark>, <mark>Knowledge Discovery & Data Mining Student Innovation Award</mark>.
-				[<a href = "https://arxiv.org/abs/2109.11043">arXiv</a>] 
+				AMIA Annual Symposium, 2021.  [<a href = "https://arxiv.org/abs/2109.11043">arXiv</a>]  <br>
+				<div class = "honors-div">
+					AMIA Student Paper Competition Finalist (top 8)<br>
+					Knowledge Discovery & Data Mining Student Innovation Award (2 awarded)
+
+				</div>
+				
 			</div>
+
+		</div>
+		<div id = "conf-div">
+			<div id = "header">Workshop Papers & Pre-prints (lightly peer reviewed)</div>
+			<i>"Assessing AI Impact Assessments: A Classroom Study"</i>. 
+			<b>Nari Johnson</b>, Hoda Heidari.
+			NeurIPS Regulatable ML Workshop, 2023.
+			[<a href = "https://arxiv.org/abs/2311.11193">arXiv</a>] 
 
 		</div>
 
@@ -74,7 +95,7 @@
 			I've greatly enjoyed helping to teach several classes in college and my PhD.
 			My teaching philosophy is inspired by my commitment to expanding access to computing, and understanding teaching as a transformative practice.
 			In college, I designed and led Harvard Computer Science's first <a href = "https://www.thecrimson.com/article/2020/10/7/cs-tf-training/">inclusive teaching training</a>.
-			My teaching has been recognized with several honors, including Carnegie Mellon's <mark>Machine Learning TA Award</mark>, Harvard's <mark><a href = "https://csadvising.seas.harvard.edu/opportunities/patel/">Alex Patel Teaching Fellowship</a></mark>, and Harvard's <mark><a href = "https://bokcenter.harvard.edu/teaching-awards">Derek Bok Certificate of Distinction in Teaching</a> (4x)</mark>.<br>
+			My teaching has been recognized with several honors, including Carnegie Mellon's <strong>Machine Learning TA Award</strong>, Harvard's <strong><a href = "https://csadvising.seas.harvard.edu/opportunities/patel/">Alex Patel Teaching Fellowship</a></strong>, and Harvard's <strong><a href = "https://bokcenter.harvard.edu/teaching-awards">Derek Bok Certificate of Distinction in Teaching</a> (4x)</strong>.<br>
 
 			<ul>
 				<li><a href = "https://www.cs.cmu.edu/~aarti/Class/10701_Spring23/">10-701: Introduction to Machine Learning</a>, Spring 2023</li>
@@ -148,7 +169,17 @@
 	margin-bottom: 1cm;
 }
 
-#research-div {
+.honors-div {
+	font-weight: bold;
+	color: #520c99;
+}
+
+#conf-div {
+	font-size: 25px;
+	margin-bottom: 1cm;
+}
+
+#workshop-div {
 	font-size: 25px;
 	margin-bottom: 1cm;
 }
