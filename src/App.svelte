@@ -158,8 +158,8 @@ img {
 
 #page-container { 
 	margin-top: 2cm;
-    margin-left: 4cm;
-    margin-right: 4cm;
+    margin-left: 10vw;
+    margin-right: 10vw;
 	margin-bottom: 4cm;
 	font-size: 25px;
 	line-height: 35px;
