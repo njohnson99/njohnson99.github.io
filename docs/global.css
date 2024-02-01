@@ -1,8 +1,7 @@
 
-
 @font-face {
-	font-family: 'Editorial';
-	src: local('Editorial New Ultralight'), local('Editorial-Ultralight'), url('./fonts/PPEditorialNew-Ultralight.woff') format('woff');
+	font-family: 'Lato';
+	src: local('Lato Light'), local('Lato-Light'), url('./fonts/Lato-Light.tff') format('tff');
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
@@ -10,13 +9,13 @@ html, body {
 	position: relative;
 	width: 100%;
 	height: 100%;
-	font-family: Editorial, Editorial-Ultralight;
+	font-family: Lato, Lato-Light;
 	font-size: 16px;
 	line-height: 24px;
-	letter-spacing: 0px;
+	letter-spacing: -1px;
 	font-weight: 400;
 
-	background-color: #fbf8ff;
+	background-color: #f8fbfc;
 
   
 	font-synthesis: none;
@@ -31,7 +30,7 @@ body {
 	margin: 0;
 	padding: 8px;
 	box-sizing: border-box;
-	font-family: Editorial, Editorial-Ultralight;
+	font-family: Lato, Lato-Thin;
 }
 
 a {
