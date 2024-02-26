@@ -21,7 +21,7 @@
 				<b>Email: narij at andrew dot cmu dot edu </b>
 			</div>
 			<div class="headshot-div">
-				<img class="circle" src="./imgs/headshot.JPG" alt="A photo of Nari sitting at a cafe."/>
+				<img class="circle" src="./imgs/headshot.jpeg" alt="Nari's headshot."/>
 			</div>
 		</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
@@ -88,7 +88,7 @@
 		<div id = "teaching-div">
 			<div class = "header-two"><b>Teaching</b></div>
 			
-			I've greatly enjoyed teaching several classes in college and my PhD.
+			I've greatly enjoyed teaching several classes in college and my PhD program.
 			As an undergrad, I designed and led Harvard Computer Science's first <a href = "https://www.thecrimson.com/article/2020/10/7/cs-tf-training/">inclusive teaching training</a>.
 			My teaching has been recognized with several honors, including Carnegie Mellon's <strong>Machine Learning TA Award</strong>, Harvard's <strong><a href = "https://csadvising.seas.harvard.edu/opportunities/patel/">Alex Patel Teaching Fellowship</a></strong>, and Harvard's <strong><a href = "https://bokcenter.harvard.edu/teaching-awards">Derek Bok Certificate of Distinction in Teaching</a> (4x)</strong>.<br>
 
