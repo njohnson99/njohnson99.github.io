@@ -35,7 +35,7 @@
 				<b>Nari Johnson</b>, Ángel Alexander Cabrera, Gregory Plumb, Ameet Talwalkar<br>
 				AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2023<br>
 				ICML Workshop on Spurious Correlations, Invariance, and Stability, 2023<br>
-				[<a href = "https://arxiv.org/abs/2306.08167">arXiv</a>] [<a href = "https://youtu.be/ObRWhgHJLUI?t=28">conference talk</a>]<br>
+				[<a href = "https://arxiv.org/abs/2306.08167">arXiv</a>] [<a href = "https://youtu.be/ObRWhgHJLUI?t=28">conference talk</a>] [<a href = "https://github.com/njohnson99/slice-discovery-human-eval">data & code</a>]<br> 
 				🌟 HCOMP 2023 Best Paper Award (top 1) <br>
 				🌟 Spotlight Presentation (top 5%) at the ICML SCIS Workshop
 			</div>
