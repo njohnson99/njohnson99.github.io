@@ -7,8 +7,8 @@
 <main>
 	<div id = "page-container">
 		<div id="page-top">
-			<div class="header"><b>Nari Johnson</b></div>
-			<div id = "links"><a href = "https://scholar.google.com/citations?hl=en&user=otKyVIAAAAAJ">Google Scholar</a> 🌼 <a href = "https://github.com/njohnson99">Github</a> 🌼 <a href = "https://twitter.com/narijohnson">Twitter</a> </div>
+			<div class="header">Nari Johnson</div>
+			<div id = "links"><a href = "https://scholar.google.com/citations?hl=en&user=otKyVIAAAAAJ">Google Scholar</a> <img src = {pagebreak_fp} width = "20px"/> <a href = "https://github.com/njohnson99">Github</a> <img src = {pagebreak_fp} width = "20px"/>  <a href = "https://twitter.com/narijohnson">Twitter</a> </div>
 		</div>
 		<div class="container">
 
@@ -18,7 +18,7 @@
 				My present research interests lie in AI transparency, evaluation, and accountability.
 				<br><br>
 
-				<b>Email: narij at andrew dot cmu dot edu </b>
+				Email: narij at andrew dot cmu dot edu
 			</div>
 			<div class="headshot-div">
 				<img class="circle" src="./imgs/headshot.jpeg" alt="Nari's headshot."/>
@@ -26,7 +26,7 @@
 		</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 		<div id = "conf-div">
-			<div class="header-two"><b>Refereed Publications</b></div>
+			<div class="header-two">Refereed Publications</div>
 
 			* denotes equal contribution.
 			
@@ -77,7 +77,7 @@
 
 		</div>
 		<div id = "conf-div">
-			<div class= "header-two"><b>Workshop Papers & Pre-prints</b></div>
+			<div class= "header-two">Workshop Papers & Pre-prints</div>
 			<b>Assessing AI Impact Assessments: A Classroom Study</b><br> 
 			<b>Nari Johnson</b>, Hoda Heidari<br>
 			NeurIPS Regulatable ML Workshop, 2023<br>
@@ -86,7 +86,7 @@
 		</div>
 
 		<div id = "teaching-div">
-			<div class = "header-two"><b>Teaching</b></div>
+			<div class = "header-two">Teaching</div>
 			
 			I've greatly enjoyed teaching several classes in college and my PhD program.
 			As an undergrad, I designed and led Harvard Computer Science's first <a href = "https://www.thecrimson.com/article/2020/10/7/cs-tf-training/">inclusive teaching training</a>.
@@ -104,7 +104,7 @@
 		</div>
 
 		<div id = "service-div">
-			<div class = "header-two"><b>Service</b></div>
+			<div class = "header-two">Service</div>
 
 			I care deeply about creating supportive communities in computing.
 			At CMU, I organize my department's Wellness Committee and plan community-building events for women and other under-represented gender minorities. I also participated in <a href = "https://www.cmu.edu/scs/technights/">TechNights</a> and the AI Mentorship Program.
@@ -122,35 +122,14 @@
 
 <style>
 
-
-@font-face {
-	font-family: 'Lato';
-	src: local('Lato Light'), url('./fonts/Lato-Light.tff') format('tff');
-	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-	font-weight: bold;
-}
-
-@font-face {
-	font-family: 'Lato';
-	src: local('Lato Regular'), url('./fonts/Lato-Regular.tff') format('tff');
-	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-	font-weight: bold;
-}
-
 .container {
 	display: flex;
 	align-items: top;
 	column-gap: 20px;
 }
 
-#page-top{
-	text-align: center;
-}
 .circle{
-	border-radius: 50%; 
-}
-img {   
-    height: auto;
+	height: auto;
     width: 100%;
     max-width: 700px;
 	min-width: 250px;
@@ -158,12 +137,13 @@ img {
 
 #page-container { 
 	margin-top: 2cm;
-    margin-left: 10vw;
-    margin-right: 10vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
 	margin-bottom: 4cm;
 	font-size: 25px;
 	line-height: 35px;
-	font-family: 'Lato', Lato Light;
+	letter-spacing:-1px;
+	font-family: Georgia, serif;
 }
 
 #links {
@@ -175,17 +155,16 @@ img {
 .header{
 	font-size: 40px;
 	margin-bottom: 10px;
-	font-family: 'Lato', Lato Regular;
 }
 
 .header-two{
 	font-size: 35px;
 	margin-bottom: 10px;
-	font-family: 'Lato', Lato Regular;
 }
 
 #intro-div {
 	margin-bottom: 1cm;
+	margin-right: 2cm;
 }
 
 .honors-div {
@@ -206,10 +185,6 @@ img {
 .article {
 	margin-bottom: 0.5cm;
 	margin-top: 0.5cm;
-}
-
-mark {
-	background-color: #df2082;
 }
 
 #teaching-div {
