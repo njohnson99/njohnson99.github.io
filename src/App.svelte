@@ -29,6 +29,12 @@
 			<div class="header-two">Refereed Publications</div>
 
 			* denotes equal contribution.
+			<div class = "article">
+				<b>The Fall of an Algorithm: Characterizing the Dynamics Toward Abandonment</b><br> 
+				<b>Nari Johnson</b>, Sanika Moharana, Christina N. Harrington, Nazanin Andalibi, <br>Hoda Heidari*, Motahhare Eslami*<br>
+				ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2024<br>
+				[<a href = "https://arxiv.org/abs/2404.13802">arXiv</a>] 
+			</div>
 			
 			<div class = "article">
 				<b>Where Does My Model Underperform? A Human Evaluation of Slice Discovery Algorithms</b><br> 
