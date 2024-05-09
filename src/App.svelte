@@ -23,7 +23,16 @@
 			<div class="headshot-div">
 				<img class="circle" src="./imgs/headshot.jpeg" alt="Nari's headshot."/>
 			</div>
-		</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+		</div>  
+
+		<div id = "news-div">
+			<div class="header-two">News</div>
+			<ul>
+			<li>🩵 I am attending <b>ACM FAccT 2024 in Rio de Janeiro</b> to present our study on <a href = "https://arxiv.org/abs/2404.13802">abandoning algorithms</a> in response to algorithmic harms! Would be happy to chat with other folks interested in AI accountability/contestation.</li>
+			<li>🩵 I am relocating to <b>Cambridge, UK</b> in May to spend 12 wonderful weeks interning at Microsoft Research! Would love to connect with researchers/friends based in the UK.</li>
+
+			</ul>
+		</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
 		<div id = "conf-div">
 			<div class="header-two">Refereed Publications</div>
@@ -116,7 +125,7 @@
 			At CMU, I organize my department's Wellness Committee and plan community-building events for women and other under-represented gender minorities. I also participated in <a href = "https://www.cmu.edu/scs/technights/">TechNights</a> and the AI Mentorship Program.
 			In a past life, I served as elected Co-President and led the Advocacy Council of <a href = "https://www.harvardwics.com">Harvard Women in Computer Science</a>.<br><br>
 
-			<b>Professional Service</b>:  I've served as a reviewer for: ICLR 2024, NeurIPS 2023 (<a href = "https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers">Top Reviewer</a>, <a href="https://xai-in-action.github.io/">Highlighted  Workshop Reviewer</a>), CHI LBW 2023.<br>
+			<b>Professional Service</b>:  I've served as a reviewer for: ICLR 2024, NeurIPS 2023 (<a href = "https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers">Top Reviewer</a>, <a href="https://xai-in-action.github.io/">Highlighted Workshop Reviewer</a>), CHI LBW 2023.<br>
 		</div>
 
 		<div id = "filler"> </div>
