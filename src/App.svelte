@@ -125,7 +125,7 @@
 			At CMU, I organize my department's Wellness Committee and plan community-building events for women and other under-represented gender minorities. I also participated in <a href = "https://www.cmu.edu/scs/technights/">TechNights</a> and the AI Mentorship Program.
 			In a past life, I served as elected Co-President and led the Advocacy Council of <a href = "https://www.harvardwics.com">Harvard Women in Computer Science</a>.<br><br>
 
-			<b>Professional Service</b>:  I've served as a reviewer for: ICLR 2024, NeurIPS 2023 (<a href = "https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers">Top Reviewer</a>, <a href="https://xai-in-action.github.io/">Highlighted Workshop Reviewer</a>), CHI LBW 2023.<br>
+			<b>Professional Service</b>:  I've served as a reviewer for: ICLR 2024 (<a href = "https://iclr.cc/Conferences/2024/Reviewers">Outstanding Reviewer</a>), NeurIPS 2023 (<a href = "https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers">Top Reviewer</a>, <a href="https://xai-in-action.github.io/">Highlighted Workshop Reviewer</a>), CHI LBW 2023.<br>
 		</div>
 
 		<div id = "filler"> </div>
