@@ -28,7 +28,6 @@
 		<div id = "news-div">
 			<div class="header-two">News</div>
 			<ul>
-			<li>🩵 I am attending <b>ACM FAccT 2024 in Rio de Janeiro</b> to present our study on <a href = "https://arxiv.org/abs/2404.13802">abandoning algorithms</a> in response to algorithmic harms! Would be happy to chat with other folks interested in AI accountability/contestation.</li>
 			<li>🩵 I am relocating to <b>Cambridge, UK</b> in May to spend 12 wonderful weeks interning at Microsoft Research! Would love to connect with researchers/friends based in the UK.</li>
 
 			</ul>
@@ -42,7 +41,7 @@
 				<b>The Fall of an Algorithm: Characterizing the Dynamics Toward Abandonment</b><br> 
 				<b>Nari Johnson</b>, Sanika Moharana, Christina N. Harrington, Nazanin Andalibi, Hoda Heidari*, Motahhare Eslami*<br>
 				ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2024<br>
-				[<a href = "https://arxiv.org/abs/2404.13802">arXiv</a>] 
+				[<a href = "https://arxiv.org/abs/2404.13802">arXiv</a>] [<a href = "https://njohnson99.github.io/fall-of-algorithm-database/">database</a>] [<a href = "https://www.saysmaybe.com/podcast/what-the-facct-abandoning-algorithms">podcast episode</a>]
 			</div>
 			
 			<div class = "article">
