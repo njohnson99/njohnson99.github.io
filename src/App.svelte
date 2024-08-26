@@ -13,25 +13,20 @@
 		<div class="container">
 
 			<div id="intro-div">
-				Hello! My name is Nari (rhymes with "<a href = {starrynight}>starry</a>") and I am a third-year PhD student in Carnegie Mellon University's <a href = "https://www.ml.cmu.edu/about/">Machine Learning Department</a>, where I'm fortunate to be advised by <a href = "https://www.cs.cmu.edu/~hheidari/">Hoda Heidari</a>.
+				Hello! My name is Nari (rhymes with "<a href = {starrynight}>starry</a>") and I am a fourth-year PhD student in Carnegie Mellon University's <a href = "https://www.ml.cmu.edu/about/">Machine Learning Department</a>, where I'm fortunate to be advised by <a href = "https://www.cs.cmu.edu/~hheidari/">Hoda Heidari</a>.
 				I graduated from Harvard in 2021 with a BA and MS in Computer Science, where I previously worked with <a href = "https://finale.seas.harvard.edu">Finale Doshi-Velez</a>.
-				My present research interests lie in AI transparency, evaluation, and accountability.
 				<br><br>
+
+				My research examines how often-opaque algorithmic systems can be better evaluated and governed.
+				To this end, my work adopts methods from machine learning and human-computer interaction to study AI models and the people they impact.
+				I am broadly motivated by the goal of supporting those who most impacted by AI systems to have a say in their design, governance, and deployment.<br><br>
 
 				Email: narij at andrew dot cmu dot edu
 			</div>
 			<div class="headshot-div">
 				<img class="circle" src="./imgs/headshot.jpeg" alt="Nari's headshot."/>
 			</div>
-		</div>  
-
-		<div id = "news-div">
-			<div class="header-two">News</div>
-			<ul>
-			<li>🩵 I am relocating to <b>Cambridge, UK</b> in May to spend 12 wonderful weeks interning at Microsoft Research! Would love to connect with researchers/friends based in the UK.</li>
-
-			</ul>
-		</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+		</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 
 		<div id = "conf-div">
 			<div class="header-two">Refereed Publications</div>
