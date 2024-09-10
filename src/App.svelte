@@ -18,8 +18,7 @@
 				<br><br>
 
 				My research examines how often-opaque algorithmic systems can be better evaluated and governed.
-				To this end, my work adopts methods from machine learning and human-computer interaction to study AI models and the people they impact.
-				I am broadly motivated by the goal of supporting those who most impacted by AI systems to have a say in their design, governance, and deployment.<br><br>
+				To this end, my work adopts methods from machine learning and human-computer interaction to study AI models and the people they impact.<br><br>
 
 				Email: narij at andrew dot cmu dot edu
 			</div>
