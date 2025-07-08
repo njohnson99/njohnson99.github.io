@@ -1,10 +1,10 @@
 // Initialize font properties
-const fontname = "Roboto+Mono";
+const fontname = "Lora";
 const fontweights = [300, 400]
 
 // Color properties
 const basecolor = "#231a19";
-const accentcolor = "#866261";
+const accentcolor = "#6a8698";
 const highlightcolor = "#111";
 
 // const basecolor = "#888";
@@ -14,7 +14,7 @@ const highlightcolor = "#111";
 // Body properties
 const bodyfontweight = 300;
 const bodyfontsize = "12pt";
-const backgroundcolor = "#f3efef";
+const backgroundcolor = "#fbfdff";
 
 // Link properties
 const acolor = accentcolor;
