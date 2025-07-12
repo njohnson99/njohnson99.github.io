@@ -11,6 +11,7 @@ a:hover {
     /* color: #444; */
 }
 
+strong {font-weight:bold;}
 
 .noter {
     font-size: 9pt;
